@@ -1,13 +1,13 @@
-# @NikolaySimakov
+# @RasulovZayniddin
 
-I'm a fullstack developer who is passionate about developing applications, tools and libraries.
+I'm a backend developer who is passionate about developing applications, tools and libraries.
 
 I'm interested in computer science, data science and DeFi.
 
 ### 📫 How To Reach Me:
 
-- Email: [n.simakoff@gmail.com](mailto:n.simakoff@gmail.com)
-- Telegram: [@NikolaySimakov](https://t.me/NikolaySimakov)
+- Email: [zidanzohid@gmail.com](mailto:zidanzohid@gmail.com)
+- Telegram: [LLlARAVOY](https://t.me/LLlARAVOY)
 
 ### 👷 Currently Working On
 
