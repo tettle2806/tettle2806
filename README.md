@@ -68,7 +68,8 @@ I'm interested in computer science, data science and DeFi.
   </p>
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tettle2806&theme=monokai-metallian&locale=ru)](https://git.io/streak-stats)
+### Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tettle2806&theme=monokai&locale=ru)](https://git.io/streak-stats)
 
 ### 📊 Statistics
 
