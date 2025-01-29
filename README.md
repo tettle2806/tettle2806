@@ -74,6 +74,6 @@ I'm interested in computer science, data science and DeFi.
 
 ### 📊 Statistics
 
-[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=tettle2806&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true)](https://github.com/tettle2806/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-xi-dusky.vercel.app/api?username=tettle2806&count_private=true&bg_color=00000000&hide=issues&show_icons=true&hide_border=true&theme=radical)](https://github.com/tettle2806/github-readme-stats)
 
 
