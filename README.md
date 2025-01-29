@@ -69,7 +69,7 @@ I'm interested in computer science, data science and DeFi.
 </a>
 
 ### Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tettle2806)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tettle2806&theme=dark&hide_border=&short_numbers=)](https://git.io/streak-stats)
 
 
 ### 📊 Statistics
